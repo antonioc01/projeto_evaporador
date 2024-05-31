@@ -1,0 +1,5 @@
+streamlit
+CoolProp
+matplotlib
+pandas
+math
